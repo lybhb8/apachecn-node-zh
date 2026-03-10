@@ -1,0 +1,6 @@
+/* _static/custom.css */
+.wy-side-nav-search .wy-logo {
+    max-width: 180px !important;  /* 调整宽度 */
+    height: auto !important;
+    margin: 0 auto;
+}
