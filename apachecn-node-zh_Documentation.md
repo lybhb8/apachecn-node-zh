@@ -1,4 +1,52 @@
 ### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 09:53:03*
+
+**[REMOVED]**
+```
+(from line ~4)
+  os: "ubuntu-2.04"
+
+```
+**[ADDED]**
+```
+4       os: "ubuntu-22.04"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 09:53:01*
+
+**[REMOVED]**
+```
+(from line ~4)
+  os: "ubuntu-24.04"
+
+```
+**[ADDED]**
+```
+4       os: "ubuntu-2.04"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 09:52:58*
+
+**[REMOVED]**
+```
+(from line ~6)
+    python: "3.12"
+
+```
+**[ADDED]**
+```
+6         python: "3.10"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
 *Saved at: 2026/3/11 09:21:19*
 
 **[REMOVED]**
