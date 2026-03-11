@@ -1,3 +1,110 @@
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:41:00*
+
+**[REMOVED]**
+```
+(from line ~25)
+tomli>=2.4.0; python_version >= '3.11'
+
+```
+**[ADDED]**
+```
+25    tomli>=2.4.0; python_version >= '3.12'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:40:57*
+
+**[REMOVED]**
+```
+(from line ~25)
+tomli>=2.4.0; python_version > '3.11'
+
+```
+**[ADDED]**
+```
+25    tomli>=2.4.0; python_version >= '3.11'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:40:56*
+
+**[REMOVED]**
+```
+(from line ~25)
+tomli>=2.4.0; python_version < '3.11'
+
+```
+**[ADDED]**
+```
+25    tomli>=2.4.0; python_version > '3.11'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:40:14*
+
+**[ADDED]**
+```
+3     myst-parser
+4     sphinx-copybutton
+5     sphinx-design
+6     sphinx-inline-tabs
+7     sphinx-tabs
+8     linkify-it-py
+9     
+10    sphinxcontrib-applehelp>=2.0.0
+11    sphinxcontrib-devhelp>=2.0.0
+12    sphinxcontrib-htmlhelp>=2.1.0
+13    sphinxcontrib-jsmath>=1.0.1
+14    sphinxcontrib-qthelp>=2.0.0
+15    sphinxcontrib-serializinghtml>=2.0.0
+16    Jinja2>=3.1
+17    Pygments>=2.19.2
+18    docutils>=0.20,<=0.22.4
+19    snowballstemmer>=3.0.1
+20    babel>=2.18.0
+21    alabaster>=1.0.0
+22    imagesize>=1.4.1
+23    requests>=2.32.5
+24    packaging>=26.0
+25    tomli>=2.4.0; python_version < '3.11'
+26    colorama>=0.4.6; sys_platform == 'win32'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:40:12*
+
+**[ADDED]**
+```
+2     
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 12:39:12*
+
+**[REMOVED]**
+```
+(from line ~1)
+sphinx~=9.0
+
+```
+**[ADDED]**
+```
+1     sphinx~=9.1
+```
+
+---
+
 ### 📄 e:\apachecn-node-zh\readthedocs.yml
 *Saved at: 2026/3/11 10:29:04*
 
