@@ -1,3 +1,63 @@
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:29:04*
+
+**[REMOVED]**
+```
+(from line ~15)
+  configuration: source/conf.pyfail_on_warning: true
+```
+**[ADDED]**
+```
+15      configuration: source/conf.py
+16      fail_on_warning: true
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:29:02*
+
+**[REMOVED]**
+```
+(from line ~15)
+  configuration: source/conf.py
+
+fail_on_warning: true
+```
+**[ADDED]**
+```
+15      configuration: source/conf.pyfail_on_warning: true
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:28:57*
+
+**[REMOVED]**
+```
+(from line ~16)
+  
+
+```
+**[ADDED]**
+```
+16    
+17    fail_on_warning: true
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:28:54*
+
+**[ADDED]**
+```
+16      
+```
+
+---
+
 ### 📄 e:\apachecn-node-zh\source\requirements.txt
 *Saved at: 2026/3/11 10:22:41*
 
