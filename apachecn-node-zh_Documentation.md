@@ -1,4 +1,52 @@
 ### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 10:18:51*
+
+**[REMOVED]**
+```
+(from line ~26)
+tomli>=2.4.0; python_version <= '3.14'
+
+```
+**[ADDED]**
+```
+26    #tomli>=2.4.0; python_version <= '3.14'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 10:18:28*
+
+**[REMOVED]**
+```
+(from line ~26)
+tomli>=2.4.0; python_version < '3.14'
+
+```
+**[ADDED]**
+```
+26    tomli>=2.4.0; python_version <= '3.14'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:18:03*
+
+**[REMOVED]**
+```
+(from line ~6)
+    python: "3.12"
+
+```
+**[ADDED]**
+```
+6         python: "3.14"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
 *Saved at: 2026/3/11 10:15:04*
 
 **[REMOVED]**
