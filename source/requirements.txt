@@ -23,5 +23,5 @@ alabaster>=1.0.0
 imagesize>=1.4.1
 requests>=2.32.5
 packaging>=26.0
-#tomli>=2.4.0; python_version <= '3.14'
+tomli>=2.4.0; python_version >= '3.14'
 colorama>=0.4.6; sys_platform == 'win32'
