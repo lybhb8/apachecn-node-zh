@@ -1,4 +1,84 @@
 ### 📄 e:\apachecn-node-zh\source\requirements.txt
+*Saved at: 2026/3/11 10:15:04*
+
+**[REMOVED]**
+```
+(from line ~26)
+tomli>=2.4.0; python_version < '3.11'
+
+```
+**[ADDED]**
+```
+26    tomli>=2.4.0; python_version < '3.14'
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:14:49*
+
+**[REMOVED]**
+```
+(from line ~4)
+  os: "ubuntu-2.04"
+
+```
+**[ADDED]**
+```
+4       os: "ubuntu-24.04"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:14:48*
+
+**[REMOVED]**
+```
+(from line ~4)
+  os: "ubuntu-22.04"
+
+```
+**[ADDED]**
+```
+4       os: "ubuntu-2.04"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:14:41*
+
+**[REMOVED]**
+```
+(from line ~6)
+    python: "3.1"
+
+```
+**[ADDED]**
+```
+6         python: "3.12"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\readthedocs.yml
+*Saved at: 2026/3/11 10:14:40*
+
+**[REMOVED]**
+```
+(from line ~6)
+    python: "3.10"
+
+```
+**[ADDED]**
+```
+6         python: "3.1"
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\requirements.txt
 *Saved at: 2026/3/11 10:02:58*
 
 **[REMOVED]**
