@@ -4,10 +4,10 @@
 
 在本节中，我们将涵盖以下章节:
 
-- [第五章](05.md#五本地实现的-node-red)，*本地实施 Node-RED*
+- [第五章  本地实施 Node-RED](05.md#五本地实现的-node-red)
   
-- [第六章](06.md#六云中实现的-node-red)，*实现 node red in the Cloud*
+- [第六章  实现 node red in the Cloud](06.md#六云中实现的-node-red)
    
-- [第七章](07.md#七从-node-red-调用-web-api)， *Node-RED 调用 Web API*
+- [第七章  Node-RED 调用 Web API](07.md#七从-node-red-调用-web-api)
   
-- [第八章](08.md#八在-git-中使用项目特性)，*use the Project Feature with Git*
+- [第八章  在git中使用项目特性](08.md#八在-git-中使用项目特性)
