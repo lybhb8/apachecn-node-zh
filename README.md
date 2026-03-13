@@ -80,6 +80,3 @@ apachecn-node-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
-
-![](http://data.apachecn.org/img/about/donate.jpg)
