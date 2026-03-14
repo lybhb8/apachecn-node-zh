@@ -1,4 +1,1281 @@
 ### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:42:26*
+
+**[REMOVED]**
+```
+(from line ~140)
+[阿里云盘：Node-Red 实战编程 ](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [阿里云盘：Practical Node-RED Programming ](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:41:35*
+
+**[REMOVED]**
+```
+(from line ~140)
+[阿里云盘：Node-Red 实战编程](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [阿里云盘：Node-Red 实战编程 ](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:41:33*
+
+**[REMOVED]**
+```
+(from line ~140)
+[阿里云盘：](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [阿里云盘：Node-Red 实战编程](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:56*
+
+**[REMOVED]**
+```
+(from line ~140)
+[阿里云盘](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [阿里云盘：](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:42*
+
+**[REMOVED]**
+```
+(from line ~140)
+[](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [阿里云盘](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:34*
+
+**[REMOVED]**
+```
+(from line ~140)
+[alyp](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:32*
+
+**[REMOVED]**
+```
+(from line ~140)
+[](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [alyp](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:28*
+
+**[REMOVED]**
+```
+(from line ~140)
+[安乐影片](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:26*
+
+**[REMOVED]**
+```
+(from line ~140)
+[](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [安乐影片](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:21*
+
+**[REMOVED]**
+```
+(from line ~140)
+[a](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:20*
+
+**[REMOVED]**
+```
+(from line ~140)
+[](https://www.alipan.com/s/rovNackbumw)
+
+```
+**[ADDED]**
+```
+140   [a](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:12*
+
+**[REMOVED]**
+```
+(from line ~140)
+[]()
+
+```
+**[ADDED]**
+```
+140   [](https://www.alipan.com/s/rovNackbumw)
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:06*
+
+**[REMOVED]**
+```
+(from line ~140)
+[]
+
+```
+**[ADDED]**
+```
+140   []()
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:03*
+
+**[REMOVED]**
+```
+(from line ~140)
+【
+
+```
+**[ADDED]**
+```
+140   []
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:40:01*
+
+**[ADDED]**
+```
+140   【
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:54*
+
+**[ADDED]**
+```
+139   
+140   
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:48*
+
+**[REMOVED]**
+```
+(from line ~137)
+### 英文版下载
+
+```
+**[ADDED]**
+```
+137   ### 英文版下载地址
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:45*
+
+**[REMOVED]**
+```
+(from line ~137)
+### 英文版
+
+```
+**[ADDED]**
+```
+137   ### 英文版下载
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:40*
+
+**[REMOVED]**
+```
+(from line ~137)
+### 
+
+```
+**[ADDED]**
+```
+137   ### 英文版
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:20*
+
+**[REMOVED]**
+```
+(from line ~137)
+### y
+
+```
+**[ADDED]**
+```
+137   ### 
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:19*
+
+**[REMOVED]**
+```
+(from line ~137)
+### 
+
+```
+**[ADDED]**
+```
+137   ### y
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:15*
+
+**[ADDED]**
+```
+137   ### 
+138   
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
+*Saved at: 2026/3/14 11:39:03*
+
+**[REMOVED]**
+```
+(from line ~1)
+#  Node-Red 实战编程（Practical Node-RED Programming）中文版
+
+```
+**[ADDED]**
+```
+1     # Node-Red 实战编程（Practical Node-RED Programming）中文版
+```
+**[REMOVED]**
+```
+(from line ~3)
+##  1. Node-RED
+
+```
+**[ADDED]**
+```
+3     ## 1. Node-RED
+```
+**[REMOVED]**
+```
+(from line ~7)
+###  1.1 什么是 Node-RED
+
+```
+**[ADDED]**
+```
+7     ### 1.1 什么是 Node-RED
+```
+**[REMOVED]**
+```
+(from line ~13)
+###  1.2 Node-RED 的发展历史
+
+```
+**[ADDED]**
+```
+13    ### 1.2 Node-RED 的发展历史
+```
+**[REMOVED]**
+```
+(from line ~29)
+###  1.3 Node-RED 的十大特性
+
+```
+**[ADDED]**
+```
+29    ### 1.3 Node-RED 的十大特性
+```
+**[REMOVED]**
+```
+(from line ~31)
+####  1.3.1 可视化编程
+
+```
+**[ADDED]**
+```
+31    #### 1.3.1 可视化编程
+```
+**[REMOVED]**
+```
+(from line ~39)
+####  1.3.2 基于流程引擎
+
+```
+**[ADDED]**
+```
+39    #### 1.3.2 基于流程引擎
+```
+**[REMOVED]**
+```
+(from line ~81)
+####  1.3.3 基于低代码开发平台
+
+```
+**[ADDED]**
+```
+81    #### 1.3.3 基于低代码开发平台
+```
+**[REMOVED]**
+```
+(from line ~99)
+####  1.3.4 强大的节点库
+
+```
+**[ADDED]**
+```
+99    #### 1.3.4 强大的节点库
+```
+**[REMOVED]**
+```
+(from line ~103)
+####  1.3.5 支持多种数据格式
+
+```
+**[ADDED]**
+```
+103   #### 1.3.5 支持多种数据格式
+```
+**[REMOVED]**
+```
+(from line ~107)
+####  1.3.6 基于 Node.js 的开放性和可扩展性
+
+```
+**[ADDED]**
+```
+107   #### 1.3.6 基于 Node.js 的开放性和可扩展性
+```
+**[REMOVED]**
+```
+(from line ~113)
+####  1.3.7 轻量级和跨平台
+
+```
+**[ADDED]**
+```
+113   #### 1.3.7 轻量级和跨平台
+```
+**[REMOVED]**
+```
+(from line ~117)
+####  1.3.8 集成多种协议和通信方式
+
+```
+**[ADDED]**
+```
+117   #### 1.3.8 集成多种协议和通信方式
+```
+**[REMOVED]**
+```
+(from line ~121)
+####  1.3.9 社区支持和丰富的生态系统
+
+```
+**[ADDED]**
+```
+121   #### 1.3.9 社区支持和丰富的生态系统
+```
+**[REMOVED]**
+```
+(from line ~127)
+####  1.3.10 可部署性和可扩展性
+
+```
+**[ADDED]**
+```
+127   #### 1.3.10 可部署性和可扩展性
+```
+**[REMOVED]**
+```
+(from line ~131)
+##  2. Node-Red 实战编程（Practical Node-RED Programming）
+
+```
+**[ADDED]**
+```
+131   ## 2. Node-Red 实战编程（Practical Node-RED Programming）
+```
+**[REMOVED]**
+```
+(from line ~141)
+
+
+```
+**[REMOVED]**
+```
+(from line ~151)
+
+
+
+```
+**[REMOVED]**
+```
+(from line ~155)
+
+
+```
+**[REMOVED]**
+```
+(from line ~156)
+ 
+波波林 QQ ：1341979804.
+
+```
+**[ADDED]**
+```
+157   波波林 QQ ：1341979804.
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:23:44*
+
+**[REMOVED]**
+```
+(from line ~332)
+在本章中，您已经准备好了环境，可以使用 Node-RED 流编辑器。 此时，我相信您已经可以访问 Node-RED 流编辑器，因此您需要学习如何使用它。 在下一章中，我们将制作一个示例流，并学习 Node-RED 流编辑器的主要特性。**
+```
+**[ADDED]**
+```
+332   在本章中，您已经准备好了环境，可以使用 Node-RED 流编辑器。 此时，我相信您已经可以访问 Node-RED 流编辑器，因此您需要学习如何使用它。 在下一章中，我们将制作一个示例流，并学习 Node-RED 流编辑器的主要特性。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:23:30*
+
+**[REMOVED]**
+```
+(from line ~133)
+我们已经介绍了在 Windows 和 Mac 上的安装过程，现在让我们学习如何安装**npm** 和 Node.js。
+
+```
+**[ADDED]**
+```
+133   我们已经介绍了在 Windows 和 Mac 上的安装过程，现在让我们学习如何安装 **npm** 和 Node.js。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:23:27*
+
+**[REMOVED]**
+```
+(from line ~133)
+我们已经介绍了在 Windows 和 Mac 上的安装过程，现在让我们学习如何安装**npm**和 Node.js。
+
+```
+**[ADDED]**
+```
+133   我们已经介绍了在 Windows 和 Mac 上的安装过程，现在让我们学习如何安装**npm** 和 Node.js。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:23:13*
+
+**[REMOVED]**
+```
+(from line ~106)
+点击下载的 **.pkg**文件开始安装 Node.js。 它包括当前版本的**npm**。 Node-RED 运行在 Node.js 运行时，所以它是必需的。 只需按安装向导点击即可，不过在安装中有一些注意事项。
+
+```
+**[ADDED]**
+```
+106   点击下载的 **.pkg**文件开始安装 Node.js。 它包括当前版本的 **npm**。 Node-RED 运行在 Node.js 运行时，所以它是必需的。 只需按安装向导点击即可，不过在安装中有一些注意事项。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:23:10*
+
+**[REMOVED]**
+```
+(from line ~106)
+点击下载的**.pkg**文件开始安装 Node.js。 它包括当前版本的**npm**。 Node-RED 运行在 Node.js 运行时，所以它是必需的。 只需按安装向导点击即可，不过在安装中有一些注意事项。
+
+```
+**[ADDED]**
+```
+106   点击下载的 **.pkg**文件开始安装 Node.js。 它包括当前版本的**npm**。 Node-RED 运行在 Node.js 运行时，所以它是必需的。 只需按安装向导点击即可，不过在安装中有一些注意事项。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:15:53*
+
+**[REMOVED]**
+```
+(from line ~264)
+现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.md#)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+264   现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.md#三通过创建基本流来理解-node-red-特性)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:15:50*
+
+**[REMOVED]**
+```
+(from line ~264)
+现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.md)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+264   现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.md#)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:15:48*
+
+**[REMOVED]**
+```
+(from line ~264)
+现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+264   现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.md)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:15:46*
+
+**[REMOVED]**
+```
+(from line ~264)
+现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.html#_idTextAnchor044)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+264   现在，您已经准备好使用 Node-RED 进行编程了。 在[*第三章*](03.)，*通过创建基本流程来理解 Node-RED 特性，*我们将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:14:04*
+
+**[REMOVED]**
+```
+(from line ~195)
+现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.md#)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+195   现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.md#三通过创建基本流来理解-node-red-特性)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:13:59*
+
+**[REMOVED]**
+```
+(from line ~195)
+现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.md)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+195   现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.md#)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:13:53*
+
+**[REMOVED]**
+```
+(from line ~195)
+现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+195   现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.md)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:13:51*
+
+**[REMOVED]**
+```
+(from line ~195)
+现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.html#_idTextAnchor044)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+
+```
+**[ADDED]**
+```
+195   现在，您已经准备好使用 Node-RED 进行编程了。 从[*第三章*](03.)，*通过创建基本流程来理解 Node-RED 特性*，接下来将学习如何使用 Node-RED 实际构建应用。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:12:26*
+
+**[REMOVED]**
+```
+(from line ~75)
+7.  Check the versions of your tools with the following commands when the installation for Node.js has finished:
+
+```
+**[ADDED]**
+```
+75    7.  Node.js 安装完成后，请使用以下命令检查工具版本：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:12:20*
+
+**[REMOVED]**
+```
+(from line ~75)
+7.  Node.js 安装完成后，请使用以下命令检查工具版本：
+
+```
+**[ADDED]**
+```
+75    7.  Check the versions of your tools with the following commands when the installation for Node.js has finished:
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:12:15*
+
+**[REMOVED]**
+```
+(from line ~75)
+7.  Check the versions of your tools with the following commands when the installation for Node.js has finished:
+
+```
+**[ADDED]**
+```
+75    7.  Node.js 安装完成后，请使用以下命令检查工具版本：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:11:48*
+
+**[REMOVED]**
+```
+(from line ~69)
+6.  在接下来的界面中，你无需勾选任何内容即可点击**Next**。不过，安装此处可供选择的工具也没有问题，其中包括这些环境（Visual C++、windows-build-tools 以及 Python）的安装与路径配置。
+
+```
+**[ADDED]**
+```
+69    6.  在接下来的界面中，你无需勾选任何内容即可点击 **Next**。不过，安装此处可供选择的工具也没有问题，其中包括这些环境（Visual C++、windows-build-tools 以及 Python）的安装与路径配置。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:11:45*
+
+**[REMOVED]**
+```
+(from line ~69)
+6.  在接下来的界面中，你无需勾选任何内容即可点击**下一步**。不过，安装此处可供选择的工具也没有问题，其中包括这些环境（Visual C++、windows-build-tools 以及 Python）的安装与路径配置。
+
+```
+**[ADDED]**
+```
+69    6.  在接下来的界面中，你无需勾选任何内容即可点击**Next**。不过，安装此处可供选择的工具也没有问题，其中包括这些环境（Visual C++、windows-build-tools 以及 Python）的安装与路径配置。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:11:34*
+
+**[REMOVED]**
+```
+(from line ~69)
+6.  On the following screen, you can click **Next** without checking anything. However, it's OK to install the tools that can be selected here. This includes the installations and settings the path of these environments (Visual C++, windows-build-tools, and Python):
+
+```
+**[ADDED]**
+```
+69    6.  在接下来的界面中，你无需勾选任何内容即可点击**下一步**。不过，安装此处可供选择的工具也没有问题，其中包括这些环境（Visual C++、windows-build-tools 以及 Python）的安装与路径配置。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:10:42*
+
+**[REMOVED]**
+```
+(from line ~63)
+No custom setup is needed on the next screen. You can select **Next** with only the default features selected:
+
+```
+**[ADDED]**
+```
+64    
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:10:37*
+
+**[REMOVED]**
+```
+(from line ~62)
+5.  在下一界面中无需进行自定义设置。仅保留默认功能选中状态，即可选择**Next**：
+
+```
+**[ADDED]**
+```
+62    5.  在下一界面中无需进行自定义设置。仅保留默认功能选中状态，即可选择 **Next**：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:10:35*
+
+**[REMOVED]**
+```
+(from line ~62)
+5.  在下一界面中无需进行自定义设置。仅保留默认功能选中状态，即可选择**下一步**：
+
+```
+**[ADDED]**
+```
+62    5.  在下一界面中无需进行自定义设置。仅保留默认功能选中状态，即可选择**Next**：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:10:20*
+
+**[REMOVED]**
+```
+(from line ~62)
+5.  
+
+```
+**[ADDED]**
+```
+62    5.  在下一界面中无需进行自定义设置。仅保留默认功能选中状态，即可选择**下一步**：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:10:17*
+
+**[REMOVED]**
+```
+(from line ~62)
+5.  No custom setup is needed on the next screen. You can select **Next** with only the default features selected:
+
+```
+**[ADDED]**
+```
+62    5.  
+63    No custom setup is needed on the next screen. You can select **Next** with only the default features selected:
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:09:46*
+
+**[REMOVED]**
+```
+(from line ~50)
+4.  Next, you need to accept the End-User License Agreement:
+
+```
+**[ADDED]**
+```
+50    4.  接下来，你需要接受最终用户许可协议：
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:09:18*
+
+**[REMOVED]**
+```
+(from line ~39)
+1.  访问 Node.js 官方原版网站并下载安装程序
+
+```
+**[ADDED]**
+```
+39    1.  访问 Node.js 官方原版网站并下载安装程序:
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:09:17*
+
+**[REMOVED]**
+```
+(from line ~39)
+1.  访问 Node.js 官方原版网站并下载安装程序。
+
+```
+**[ADDED]**
+```
+39    1.  访问 Node.js 官方原版网站并下载安装程序
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:09:13*
+
+**[REMOVED]**
+```
+(from line ~39)
+1.  Access the original Node.js website and download the installer.
+
+```
+**[ADDED]**
+```
+39    1.  访问 Node.js 官方原版网站并下载安装程序。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:06:40*
+
+**[ADDED]**
+```
+49    
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:37*
+
+**[REMOVED]**
+```
+(from line ~35)
+[https://nodejs.org/en/download]() 。
+
+```
+**[ADDED]**
+```
+35    [https://nodejs.org/en/download](https://nodejs.org/en/download) 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:28*
+
+**[REMOVED]**
+```
+(from line ~35)
+[https://nodejs.org/en/download] 。
+
+```
+**[ADDED]**
+```
+35    [https://nodejs.org/en/download]() 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:25*
+
+**[REMOVED]**
+```
+(from line ~35)
+[https://nodejs.org/en/download 。
+
+```
+**[ADDED]**
+```
+35    [https://nodejs.org/en/download] 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:22*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/download 。
+
+```
+**[ADDED]**
+```
+35    [https://nodejs.org/en/download 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:20*
+
+**[REMOVED]**
+```
+(from line ~35)
+【https://nodejs.org/en/download 。
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/download 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:19*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/download 。
+
+```
+**[ADDED]**
+```
+35    【https://nodejs.org/en/download 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:13*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/download 
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/download 。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:11*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/download
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/download 
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:10*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/download。
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/download
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:05:05*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/home-downloadhead。
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/download。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\02.md
+*Saved at: 2026/3/14 11:04:21*
+
+**[REMOVED]**
+```
+(from line ~35)
+https://nodejs.org/en/ home-downloadhead。
+
+```
+**[ADDED]**
+```
+35    https://nodejs.org/en/home-downloadhead。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 11:01:26*
+
+**[REMOVED]**
+```
+(from line ~76)
+起初，它只是一个概念验证（PoC），旨在帮助可视化并理解**消息队列遥测传输（MQTT）主题**之间的映射关系，但很快它就成为了一款广受欢迎的工具，能够轻松扩展到各种应用场景。
+
+```
+**[ADDED]**
+```
+76    起初，它只是一个**概念验证（PoC）**，旨在帮助可视化并理解**消息队列遥测传输（MQTT）主题**之间的映射关系，但很快它就成为了一款广受欢迎的工具，能够轻松扩展到各种应用场景。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 11:01:15*
+
+**[REMOVED]**
+```
+(from line ~76)
+最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+
+```
+**[ADDED]**
+```
+76    起初，它只是一个概念验证（PoC），旨在帮助可视化并理解**消息队列遥测传输（MQTT）主题**之间的映射关系，但很快它就成为了一款广受欢迎的工具，能够轻松扩展到各种应用场景。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 10:57:31*
+
+**[REMOVED]**
+```
+(from line ~76)
+最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输** **(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+
+```
+**[ADDED]**
+```
+76    最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 10:57:29*
+
+**[REMOVED]**
+```
+(from line ~76)
+最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+
+```
+**[ADDED]**
+```
+76    最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输** **(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 10:57:18*
+
+**[REMOVED]**
+```
+(from line ~76)
+最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。**
+
+```
+**[ADDED]**
+```
+76    最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 10:57:15*
+
+**[REMOVED]**
+```
+(from line ~76)
+最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。****
+
+```
+**[ADDED]**
+```
+76    最初,只不过是**概念证明**(**PoC)帮助可视化和理解之间的映射消息队列遥测传输****(【显示】**MQTT)话题,但是很快,它变成了一个非常受欢迎的工具,可以很容易地扩展到各种用途。**
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\source\docs\prac-node-red-prog\01.md
+*Saved at: 2026/3/14 10:56:00*
+
+**[REMOVED]**
+```
+(from line ~219)
+在本章中，你学习了什么是 FBP 和 Node-RED。 由于这个原因，您现在明白了为什么 Node-RED 目前被许多人作为 FBP 工具喜爱和使用。 此时，您可能希望使用 Node-RED 构建应用。 在下一章中，我们将在我们的环境中安装 Node-RED，并更深入地研究它。**
+```
+**[ADDED]**
+```
+219   在本章中，你学习了什么是 FBP 和 Node-RED。 由于这个原因，您现在明白了为什么 Node-RED 目前被许多人作为 FBP 工具喜爱和使用。 此时，您可能希望使用 Node-RED 构建应用。 在下一章中，我们将在我们的环境中安装 Node-RED，并更深入地研究它。
+```
+
+---
+
+### 📄 e:\apachecn-node-zh\README.md
 *Saved at: 2026/3/13 17:18:51*
 
 **[REMOVED]**
