@@ -147,7 +147,7 @@ Node-RED 可以轻松部署到各种环境中，包括本地计算机、云服�
 
 ## 4. Github 源码
 
-本书《Node-Red 实战编程》中文版 [Github 源码仓库](https://github.com/lybhb8/apachecn-node-zh).
+本书《Node-Red 实战编程》中文版 [Github 源码仓库](https://github.com/lybhb8/apachecn-node-zh/tree/node-red).
 
 
 
